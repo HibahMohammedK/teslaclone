@@ -1,0 +1,14 @@
+.logo {
+    font-family: var(--tds-font-family-latin-display);
+    color: white;
+}
+.logo-image {
+    filter: brightness(0) invert(1);
+    padding: 2px;
+    height: 36px;
+    width: 122px;
+    margin-left: 2rem;
+}
+.body {
+    background: gray;
+}
