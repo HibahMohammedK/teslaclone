@@ -226,13 +226,34 @@
     margin-top: 0px;
 }
 .spcl-model {
- 
     font-family: 'Audiowide', cursive;
-
-
-
-
-
 }
-
-
+.footer {
+    background: black;
+    color: rgb(221, 214, 214);
+    font-size: 11.5px;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    width: 100%;
+    height: 78vh;
+    padding-top: 25px;
+    word-spacing: 3.5px;
+}
+.footerp{
+    margin-left: auto;
+    margin-right: auto;
+    margin-inline: auto;
+    text-align: center;
+    
+}
+.footer-ul {
+    list-style: none;
+    display: flex;
+    text-align: center;
+    padding-left: 33%;
+    padding-top: 80px;
+    gap: 15px;
+}
